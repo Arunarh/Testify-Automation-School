@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="DemoQA Test Suite">
+
+    <test name="DemoQA Navigation Tests">
+
+        <classes>
+
+            <class name="ElementsTest"/>
+
+            <class name="FormsTest"/>
+
+            <class name="WidgetsTest"/>
+
+            <class name="InteractionsTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
